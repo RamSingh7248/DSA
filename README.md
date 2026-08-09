@@ -11,6 +11,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RamSingh7248/DSA/tree/master/0100-same-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RamSingh7248/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,4 +40,12 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamSingh7248/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RamSingh7248/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RamSingh7248/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
