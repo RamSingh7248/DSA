@@ -29,6 +29,7 @@ My LeetCode Solutions in Java
 ## String
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamSingh7248/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -54,6 +55,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RamSingh7248/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RamSingh7248/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -101,4 +103,12 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RamSingh7248/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
