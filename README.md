@@ -49,6 +49,7 @@ My LeetCode Solutions in Java
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RamSingh7248/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RamSingh7248/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -148,4 +149,8 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RamSingh7248/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
