@@ -59,6 +59,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -133,10 +134,12 @@ My LeetCode Solutions in Java
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/RamSingh7248/DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
