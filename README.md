@@ -26,6 +26,7 @@ My LeetCode Solutions in Java
 | [0002-add-two-numbers](https://github.com/RamSingh7248/DSA/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RamSingh7248/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamSingh7248/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -70,6 +71,7 @@ My LeetCode Solutions in Java
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/RamSingh7248/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RamSingh7248/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -82,21 +84,25 @@ My LeetCode Solutions in Java
 | ------- |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RamSingh7248/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -104,6 +110,7 @@ My LeetCode Solutions in Java
 | ------- |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
