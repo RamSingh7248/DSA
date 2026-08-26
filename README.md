@@ -34,6 +34,7 @@ My LeetCode Solutions in Java
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0020-valid-parentheses) |
 | [1927-sum-game](https://github.com/RamSingh7248/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RamSingh7248/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -155,6 +156,7 @@ My LeetCode Solutions in Java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/RamSingh7248/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RamSingh7248/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -197,4 +199,8 @@ My LeetCode Solutions in Java
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RamSingh7248/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamSingh7248/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
