@@ -70,6 +70,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/RamSingh7248/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -127,6 +128,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/RamSingh7248/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/RamSingh7248/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RamSingh7248/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RamSingh7248/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -163,11 +165,13 @@ My LeetCode Solutions in Java
 | [0155-min-stack](https://github.com/RamSingh7248/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RamSingh7248/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamSingh7248/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
