@@ -77,6 +77,7 @@ My LeetCode Solutions in Java
 | [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RamSingh7248/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RamSingh7248/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RamSingh7248/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamSingh7248/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -137,6 +138,7 @@ My LeetCode Solutions in Java
 ## Sorting
 |  |
 | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RamSingh7248/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RamSingh7248/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -209,4 +211,8 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RamSingh7248/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
