@@ -63,6 +63,7 @@ My LeetCode Solutions in Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RamSingh7248/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RamSingh7248/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RamSingh7248/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RamSingh7248/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Doubly-Linked List
 |  |
 | ------- |
