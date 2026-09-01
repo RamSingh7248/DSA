@@ -16,6 +16,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RamSingh7248/DSA/tree/master/0100-same-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@ My LeetCode Solutions in Java
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RamSingh7248/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamSingh7248/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RamSingh7248/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RamSingh7248/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -138,6 +140,7 @@ My LeetCode Solutions in Java
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RamSingh7248/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RamSingh7248/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RamSingh7248/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +164,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/RamSingh7248/DSA/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RamSingh7248/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
@@ -218,4 +222,8 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RamSingh7248/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
