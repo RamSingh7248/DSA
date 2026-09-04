@@ -92,6 +92,7 @@ My LeetCode Solutions in Java
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RamSingh7248/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RamSingh7248/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RamSingh7248/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/RamSingh7248/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +111,7 @@ My LeetCode Solutions in Java
 | ------- |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/RamSingh7248/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |
