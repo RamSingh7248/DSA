@@ -78,6 +78,7 @@ My LeetCode Solutions in Java
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/RamSingh7248/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/RamSingh7248/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -186,6 +187,7 @@ My LeetCode Solutions in Java
 | [0225-implement-stack-using-queues](https://github.com/RamSingh7248/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamSingh7248/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/RamSingh7248/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -219,6 +221,7 @@ My LeetCode Solutions in Java
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/RamSingh7248/DSA/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamSingh7248/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Queue
 |  |
