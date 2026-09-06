@@ -25,6 +25,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RamSingh7248/DSA/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
@@ -75,6 +76,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
@@ -179,6 +181,7 @@ My LeetCode Solutions in Java
 | ------- |
 | [0020-valid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RamSingh7248/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RamSingh7248/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamSingh7248/DSA/tree/master/0232-implement-queue-using-stacks) |
