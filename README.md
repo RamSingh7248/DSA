@@ -67,6 +67,7 @@ My LeetCode Solutions in Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RamSingh7248/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RamSingh7248/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RamSingh7248/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/RamSingh7248/DSA/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RamSingh7248/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Doubly-Linked List
 |  |
@@ -78,6 +79,7 @@ My LeetCode Solutions in Java
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/RamSingh7248/DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/RamSingh7248/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
@@ -205,6 +207,7 @@ My LeetCode Solutions in Java
 | [0155-min-stack](https://github.com/RamSingh7248/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RamSingh7248/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamSingh7248/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/RamSingh7248/DSA/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -228,6 +231,7 @@ My LeetCode Solutions in Java
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RamSingh7248/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamSingh7248/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/RamSingh7248/DSA/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
