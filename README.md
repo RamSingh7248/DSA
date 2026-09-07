@@ -39,6 +39,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0020-valid-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/RamSingh7248/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/RamSingh7248/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RamSingh7248/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RamSingh7248/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -103,6 +104,7 @@ My LeetCode Solutions in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/RamSingh7248/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
