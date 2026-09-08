@@ -77,6 +77,7 @@ My LeetCode Solutions in Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RamSingh7248/DSA/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RamSingh7248/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/RamSingh7248/DSA/tree/master/0239-sliding-window-maximum) |
@@ -149,6 +150,7 @@ My LeetCode Solutions in Java
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RamSingh7248/DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RamSingh7248/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/RamSingh7248/DSA/tree/master/1386-cinema-seat-allocation) |
