@@ -100,6 +100,7 @@ My LeetCode Solutions in Java
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RamSingh7248/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RamSingh7248/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RamSingh7248/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamSingh7248/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RamSingh7248/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RamSingh7248/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -115,6 +116,7 @@ My LeetCode Solutions in Java
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamSingh7248/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -170,6 +172,7 @@ My LeetCode Solutions in Java
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RamSingh7248/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RamSingh7248/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamSingh7248/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,4 +269,8 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RamSingh7248/DSA/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamSingh7248/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
