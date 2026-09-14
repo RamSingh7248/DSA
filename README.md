@@ -29,6 +29,7 @@ My LeetCode Solutions in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/RamSingh7248/DSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0836-rectangle-overlap](https://github.com/RamSingh7248/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
@@ -273,4 +274,8 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamSingh7248/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RamSingh7248/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
