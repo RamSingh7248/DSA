@@ -91,6 +91,7 @@ My LeetCode Solutions in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RamSingh7248/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/RamSingh7248/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/RamSingh7248/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/RamSingh7248/DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/RamSingh7248/DSA/tree/master/0735-asteroid-collision) |
@@ -242,6 +243,7 @@ My LeetCode Solutions in Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RamSingh7248/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RamSingh7248/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RamSingh7248/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/RamSingh7248/DSA/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RamSingh7248/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
