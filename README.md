@@ -31,6 +31,7 @@ My LeetCode Solutions in Java
 | [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/RamSingh7248/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RamSingh7248/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/RamSingh7248/DSA/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RamSingh7248/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RamSingh7248/DSA/tree/master/1872-stone-game-viii) |
@@ -293,6 +294,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RamSingh7248/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RamSingh7248/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
