@@ -18,6 +18,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RamSingh7248/DSA/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -51,6 +52,7 @@ My LeetCode Solutions in Java
 | [0020-valid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RamSingh7248/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/RamSingh7248/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -70,6 +72,7 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamSingh7248/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
