@@ -70,6 +70,7 @@ My LeetCode Solutions in Java
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RamSingh7248/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamSingh7248/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/RamSingh7248/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/RamSingh7248/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
