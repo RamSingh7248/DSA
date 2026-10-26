@@ -14,12 +14,14 @@ My LeetCode Solutions in Java
 | [0100-same-tree](https://github.com/RamSingh7248/DSA/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RamSingh7248/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RamSingh7248/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RamSingh7248/DSA/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ My LeetCode Solutions in Java
 | [3525-find-x-value-of-array-ii](https://github.com/RamSingh7248/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RamSingh7248/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RamSingh7248/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RamSingh7248/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RamSingh7248/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -341,11 +344,13 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RamSingh7248/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RamSingh7248/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
