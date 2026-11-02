@@ -33,6 +33,7 @@ My LeetCode Solutions in Java
 | [0002-add-two-numbers](https://github.com/RamSingh7248/DSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RamSingh7248/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RamSingh7248/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RamSingh7248/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/RamSingh7248/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RamSingh7248/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -121,6 +122,7 @@ My LeetCode Solutions in Java
 | [0239-sliding-window-maximum](https://github.com/RamSingh7248/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/RamSingh7248/DSA/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RamSingh7248/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RamSingh7248/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/RamSingh7248/DSA/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/RamSingh7248/DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/RamSingh7248/DSA/tree/master/0735-asteroid-collision) |
@@ -236,6 +238,7 @@ My LeetCode Solutions in Java
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RamSingh7248/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RamSingh7248/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RamSingh7248/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RamSingh7248/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
