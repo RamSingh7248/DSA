@@ -13,6 +13,7 @@ My LeetCode Solutions in Java
 | ------- |
 | [0100-same-tree](https://github.com/RamSingh7248/DSA/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RamSingh7248/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1267-count-servers-that-communicate](https://github.com/RamSingh7248/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RamSingh7248/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -20,6 +21,7 @@ My LeetCode Solutions in Java
 | ------- |
 | [0100-same-tree](https://github.com/RamSingh7248/DSA/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/RamSingh7248/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/RamSingh7248/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -130,6 +132,7 @@ My LeetCode Solutions in Java
 | [0735-asteroid-collision](https://github.com/RamSingh7248/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RamSingh7248/DSA/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/RamSingh7248/DSA/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/RamSingh7248/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/RamSingh7248/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RamSingh7248/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RamSingh7248/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -324,6 +327,7 @@ My LeetCode Solutions in Java
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/RamSingh7248/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/RamSingh7248/DSA/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
@@ -366,11 +370,13 @@ My LeetCode Solutions in Java
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/RamSingh7248/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RamSingh7248/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/RamSingh7248/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RamSingh7248/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RamSingh7248/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
