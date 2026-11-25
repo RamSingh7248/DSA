@@ -185,6 +185,7 @@ My LeetCode Solutions in Java
 | [3886-sum-of-sortable-integers](https://github.com/RamSingh7248/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/RamSingh7248/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RamSingh7248/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/RamSingh7248/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RamSingh7248/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -268,6 +269,7 @@ My LeetCode Solutions in Java
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RamSingh7248/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RamSingh7248/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RamSingh7248/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3934-smallest-unique-subarray](https://github.com/RamSingh7248/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -436,6 +438,7 @@ My LeetCode Solutions in Java
 | [2089-find-target-indices-after-sorting-array](https://github.com/RamSingh7248/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RamSingh7248/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RamSingh7248/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/RamSingh7248/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Geometry
 |  |
 | ------- |
@@ -463,4 +466,16 @@ My LeetCode Solutions in Java
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RamSingh7248/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RamSingh7248/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RamSingh7248/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RamSingh7248/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
