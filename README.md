@@ -105,6 +105,7 @@ My LeetCode Solutions in Java
 | [2333-minimum-sum-of-squared-difference](https://github.com/RamSingh7248/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RamSingh7248/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RamSingh7248/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RamSingh7248/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -187,6 +188,7 @@ My LeetCode Solutions in Java
 | [3904-smallest-stable-index-ii](https://github.com/RamSingh7248/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/RamSingh7248/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RamSingh7248/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RamSingh7248/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +211,7 @@ My LeetCode Solutions in Java
 | [3665-twisted-mirror-path-count](https://github.com/RamSingh7248/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/RamSingh7248/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RamSingh7248/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RamSingh7248/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
